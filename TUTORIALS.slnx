@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="DI_Lifecycle/DI_Lifecycle.csproj" />
+  <Project Path="ClassVsObject/ClassVsObject.csproj" />
 </Solution>
